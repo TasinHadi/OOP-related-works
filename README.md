@@ -1,2 +1,2 @@
-# mini-projects-of-OOP
-mini projects of Object-Oriented Programming
+# OOP related works
+Basic OOP related assignments with the use of Inheritance and Encapsulation.
